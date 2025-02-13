@@ -35,7 +35,7 @@ This is a curated collection of resources from key people in AI for understandin
 2. **[Lucas Beyer: M2L Summer School 2024](https://www.youtube.com/watch?v=bMXqnLiVgLk)**
    Talk from Lucas Beyer transformer models for the M2L Summer School 2024.
 
-3. **[Andrej Karpathy: Zero to Hero Series]([https://karpathy.ai/zero-to-hero/](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ))**  
+3. **[Andrej Karpathy: Zero to Hero Series](https://karpathy.ai/zero-to-hero/](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ )**  
    A hands-on series covering neural networks, GPT-style transformers from one of the OGs of ImageNet, OpenAI, etc. This guy doesn't need me to introduce him ha.
 
 ---
