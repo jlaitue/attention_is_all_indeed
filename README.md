@@ -11,7 +11,10 @@ This is a curated collection of resources from key people in AI for understandin
 1. **[Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)** - *Bahdanau et al., 2014*  
    Introduces the concept of attention in neural machine translation, allowing models to focus on different parts of the input sequence dynamically.
 
-2. **[Attention Is All You Need](https://arxiv.org/abs/1706.03762)** - *Vaswani et al., 2017*  
+2. **[Effective Approaches to Attention-based Neural Machine Translation](https://arxiv.org/pdf/1508.04025)** - *Luong et al., 2014*
+   Another paper on attention from Stanford.
+   
+3. **[Attention Is All You Need](https://arxiv.org/abs/1706.03762)** - *Vaswani et al., 2017*  
    The seminal paper introducing the Transformer model, replacing recurrence with self-attention and enabling parallelization in deep learning.
 
 ---
