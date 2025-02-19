@@ -1,6 +1,6 @@
 # Zero to Hero Transformers and Attention 🚀
 
-This is a curated collection of resources from key people in AI for understanding and building attention mechanisms and Transformer models. Organized by papers, books, courses, blogs, and interesting research (other fun and interesting areas). Perhaps in an update of the repo I'll list the working plan I'm following. I am currently a loser in these topics so I wanted to get those 10,000 hours down to become an iniated knowledge machine. I envision that future me will thank me (myself and I) for getting good at this as it also complements my PhD research for the future of AI in healthcare and beyond!
+This is a curated collection of resources from key people in AI for understanding and building attention mechanisms and Transformer models. Organized by papers, books, courses, blogs, and interesting research (i.e. other fun and interesting areas). These resources guide a [non-credit undergraduate course](https://github.com/jlaitue/attention_is_all_indeed/blob/main/ZeroHeroCourse.md) at NYUAD I created for Spring 2025. Getting those 10,000 hours down to become an iniated knowledge machine. I envision that future me will thank me (myself and I) and other students for getting good at this while complementing my PhD research for the future of AI in healthcare and beyond!
 
 "Stand on the shoulders of giants"
 
