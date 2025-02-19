@@ -3,6 +3,7 @@
 - **Schedule:** Weekly on Tuesday, 11 am - 12 pm
 - **Duration:** March 4th, 2025 – May 6th, 2025
 - **Place:** TBD
+- **Calendar invite:** TBD
 - **Total Sessions:** 10 sessions (Ramadan break is considered)
 - **Format:** Interactive lectures with discussions and code demonstrations
 - **Evaluation:** None – Focus on conceptual understanding and practical insights
