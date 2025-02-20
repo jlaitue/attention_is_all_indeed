@@ -47,7 +47,7 @@ This is a curated collection of resources from key people in AI for understandin
 4. **[Course: Zero to Hero Series](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)**  - *Andrej Karpathy* 
    A hands-on series covering neural networks, GPT-style transformers from one of the OGs of ImageNet, OpenAI, etc. This guy doesn't need me to introduce him ha.
 
-5. **[A Practical Guide for Medical Large Language Models](https://github.com/AI-in-Health/MedLLMsPracticalGuide)**
+5. **[Repo: A Practical Guide for Medical Large Language Models](https://github.com/AI-in-Health/MedLLMsPracticalGuide)**
    Actively updated list of practical guide resources for Medical Large Language Models (Medical LLMs) based on a survey from the authors of the repo
 
 ---
