@@ -28,18 +28,27 @@ This is a curated collection of resources from key people in AI for understandin
 **[Github repo accompanying the book](https://github.com/rasbt/LLMs-from-scratch)**
    A short course that guides learners through building large language models from scratch, with practical examples.
 
+3. **[How to Scale Your Model](https://jax-ml.github.io/scaling-book/index)** - *Jax Deepmind Team*  
+   Training LLMs often feels like alchemy, but understanding and optimizing the performance of your models doesn't have to. This book aims to demystify the science of scaling language models on TPUs
+
 ---
 
-## 🎓 Courses/Slides
+## 🎓 Courses/Slides/Talks/Repos
 
-1. **[Attention in Transformers: Concepts and Code in PyTorch](https://www.deeplearning.ai/short-courses/attention-in-transformers-concepts-and-code-in-pytorch/?utm_campaign=joshstarmer-launch&utm_medium=social&utm_source=x)** - *Josh Starmer DeepLearning.AI*  
+1. **[Course: Attention in Transformers | Concepts and Code in PyTorch](https://www.deeplearning.ai/short-courses/attention-in-transformers-concepts-and-code-in-pytorch/?utm_campaign=joshstarmer-launch&utm_medium=social&utm_source=x)** - *Josh Starmer DeepLearning.AI*  
    A practical introduction to attention mechanisms and transformer models, with coding exercises in PyTorch. From the great Josh Starmer, CEO of StatQuest. BAM!
 
-2. **[Lucas Beyer: M2L Summer School 2024](https://www.youtube.com/watch?v=bMXqnLiVgLk)**
+2. **[Talk: Transformers at M2L Summer School 2024](https://www.youtube.com/watch?v=bMXqnLiVgLk)** - *Lucas Beyer OpenAI* 
    Talk from Lucas Beyer transformer models for the M2L Summer School 2024.
 
-3. **[Andrej Karpathy: Zero to Hero Series](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)**  
+3. **[Talk: Computer Vision in the Age of LLMs at ML in PL 2024](https://www.youtube.com/watch?v=kxO6ARgI_SU)** - *Lucas Beyer OpenAI* 
+   Discusses how computer vision has changed with the integration of language and the advent of LLMs, with focus on the recent works of their group.
+
+4. **[Course: Zero to Hero Series](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)**  - *Andrej Karpathy* 
    A hands-on series covering neural networks, GPT-style transformers from one of the OGs of ImageNet, OpenAI, etc. This guy doesn't need me to introduce him ha.
+
+5. **[A Practical Guide for Medical Large Language Models](https://github.com/AI-in-Health/MedLLMsPracticalGuide)**
+   Actively updated list of practical guide resources for Medical Large Language Models (Medical LLMs) based on a survey from the authors of the repo
 
 ---
 
