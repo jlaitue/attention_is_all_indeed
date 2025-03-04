@@ -2,7 +2,7 @@
 
 - **Schedule:** Weekly on Tuesday, 11.15 am - 12.15 pm
 - **Duration:** March 4th, 2025 – May 6th, 2025 (10 sessions, Ramadan break is considered)
-- **Place:** C2-339 (Pending confirmation)
+- **Place:** C2-339
 - **Format:** Interactive lectures with discussions and code demonstrations
 - **Evaluation:** None – Focus on conceptual understanding and practical insights
 - **Contact:** [PhD candidate Julián Lechuga](ljl5178@nyu.edu)
